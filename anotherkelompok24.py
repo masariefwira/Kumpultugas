@@ -1,0 +1,1 @@
+print("ini sisi lain kami kelompok 24")
